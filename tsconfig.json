@@ -26,6 +26,7 @@
 			"es2017.object",
 			"dom"
 		],
+		"typeRoots": ["./src/@types", "./node_modules/@types"],
 		"module": "es6",
 		"removeComments": true,
 		"alwaysStrict": true,
